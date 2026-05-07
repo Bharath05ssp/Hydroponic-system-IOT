@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "define your template id" 
-#define BLYNK_TEMPLATE_NAME "define template name"
-#define BLYNK_AUTH_TOKEN "define auth token"
+#define BLYNK_TEMPLATE_ID "TMPL3tAauJsbR"
+#define BLYNK_TEMPLATE_NAME "Hydroponics System"
+#define BLYNK_AUTH_TOKEN "m_MMmlyS-VKTw-SgkPAIwzo8qb_8VvZr"
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
