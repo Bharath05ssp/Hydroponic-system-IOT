@@ -35,6 +35,3 @@ Our proposed hydroponic system has many features like -
 * Power up the microntroller, sensors and actuators.
 * And congratulations, you have done it. :)
 ![PXL_20240418_063912559](https://github.com/SubhadipSR/IoT-based-Hydroponic-System/assets/70135413/0ef81776-c0a0-4594-8ffe-1f5c092b2952)
-
-** If you are using ESP8266, then you have to take 2 microcontrollers as it has only 1 analog pin and we need atleast 2 analog pins. You can use Arduino UNO, but for WiFi connection, you have to buy a WiFi module. My suggestion is that, you should use ESP32 module for this project.
-  
