@@ -33,5 +33,5 @@ Our proposed hydroponic system has many features like -
 * Create a Blynk template and set up the web dashboard and add datastreams.
 * Upload the code into the microcontroller.
 * Power up the microntroller, sensors and actuators.
-* And congratulations, you have done it. :)
+
 ![PXL_20240418_063912559](https://github.com/SubhadipSR/IoT-based-Hydroponic-System/assets/70135413/0ef81776-c0a0-4594-8ffe-1f5c092b2952)
